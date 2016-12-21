@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/backend/App_Data/aspnet-backend-20161218074554.mdf
+/backend/App_Data/aspnet-backend-20161218074554_log.ldf
+/backend/bin
+/backend/obj/Debug
+/backend/backend.csproj.user
+/backend.Tests/bin/Debug
+/backend.Tests/obj/Debug
+/.vs/config
